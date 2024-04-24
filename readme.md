@@ -6,7 +6,7 @@
 > explain your code to your professor at any time after your submission.
 > If you fail to explain, this will result in a score deduction or failing the exam.
 
-### Exercise 1 - 1pt
+### Exercise 1 - 10pt
 
 You prefer a good old 12-hour time format. But the modern world we live in would rather use the 24-hour format and you see it everywhere. 
 
@@ -31,7 +31,7 @@ time_converter('00:00') == '12:00 a.m.'
 
 ---
 
-### Exercise 2 - 5pts
+### Exercise 2 - 10pts
 
 Say you have a list of lists where each value in the inner lists is a one-character string, like this:
 
@@ -58,7 +58,7 @@ Copy the previous grid value, and write code that uses it to print the image.
 
 ---
 
-### Exercise 3 - 1pt
+### Exercise 3 - 10pt
 
 You have a number and you need to determine which digit in this number is the biggest.
 
@@ -78,7 +78,7 @@ max_digit(10000) == 1
 
 ---
 
-### Exercise 4 - 1pt
+### Exercise 4 - 10pt
 
 Write a Python function called `count_vowels` that takes a string as input and returns the count of vowels (both uppercase and lowercase) in the string.
 
@@ -102,7 +102,7 @@ The function should count the number of vowels (both uppercase and lowercase) in
 
 ---
 
-### Exercise 5 - 2pts
+### Exercise 5 - 10pts
 
 Write a Python function called `find_matrix_avg` that takes a two-dimensional list of integers as input and returns the average of all the elements in the matrix.
 
@@ -129,7 +129,7 @@ The function should calculate the average of all the elements in the `matrix` an
 
 ---
 
-### Exercise 6 - 3pts
+### Exercise 6 - 10pts
 
 Write a Python function called `list_to_dict` that take a list of tuples as input `lst` and returns a list of dictionaries. 
 
@@ -158,7 +158,7 @@ list_to_dict([
 
 ---
 
-### Exercise 7 - 2pts
+### Exercise 7 - 10pts
 
 Write a Python function called `word_frequency_counter` that takes a list of words as input and returns a
 dictionary containing the frequency count of each word in the list.
